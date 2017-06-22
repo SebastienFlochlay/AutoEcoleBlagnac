@@ -1,10 +1,11 @@
-baseurl = "https://sebastienflochlay.github.io/AutoEcoleBlagnac/"
+# baseurl = "https://sebastienflochlay.github.io/AutoEcoleBlagnac/"
+baseURL = "http://example.org/"
 title = "Universal"
 theme = "hugo-universal-theme"
 publishDir = "docs"
-languageCode = "en-us"
+languageCode = "fr"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
@@ -71,7 +72,8 @@ paginate = 10
     defaultDescription = "Site template made by devcows using hugo"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    # googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
@@ -94,21 +96,31 @@ paginate = 10
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
+    timeslot = """<p><strong>Lundi-Vendredi</strong> : 14h00 – 19h30
+        <br><strong>Samedi</strong> : 10h30 – 13h00
+      </p>
+      """
+    contact = """<p class="text-muted">N’hésitez pas à nous contacter par email ou téléphone.</p>
+        <ul class="list-style-none">
+            <li><strong><a href="mailto:">info@automotoblagnac.com</a></strong></li>
+            <li><strong><a href="#">Accueil</a></strong> : 05-61-71-40-56</li>
+            <li><strong><a href="#">Stage</a></strong> : 06-03-92-06-11</li> 
+        </ul>
+      </p>
+      """
+
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p><strong>Auto / Moto Ecole du Plateau</strong>
+        <br>10 Route de Grenade
+        <br>31700 Blagnac
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "43.624108"
+    longitude = "1.394548"
+    direction = "Auto Ecole du Plateau, 10 Route de Grenade, 31700 Blagnac"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"

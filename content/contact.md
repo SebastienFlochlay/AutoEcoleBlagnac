@@ -3,8 +3,11 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
-
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-
-Please feel free to contact us, our customer service center is working for you 24/7.
+<div class="heading">
+### Besoin d'un renseignement ?
+</div>
+<p class="lead">
+Brigitte vous accueille du lundi au vendredi de 14h à 19h30, ainsi que le samedi matin de 10h30 à 13h.
+Sinon n'hésitez pas à nous laissez votre numéro de téléphone ou tout simplement à nous poser directement vos questions. Nous vous rappellerons rapidement.
+<br><br>
+</p>
