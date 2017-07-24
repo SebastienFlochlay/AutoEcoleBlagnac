@@ -1,0 +1,39 @@
+{{ if isset .Site.Params "see_more_permismoto" }}
+{{ if .Site.Params.see_more_permismoto.enable }}
+<section class="bar no-mb color-white padding-big text-center-sm">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 text-center">
+                <img src="img/banners/Yamaha-MT-07.png" alt="" class="img-responsive">
+            </div>
+            <div class="col-md-6">
+                <h2 class="text-uppercase">Permis Moto</h2>
+                <p class="lead mb-small"> Vous souhaitez préparer au mieux votre permis moto ?</p>
+                <p class="mb-small">Jean-Marc, notre formateur Moto vous guidera sur la route de votre réussite. Grâce à son expérience, il saura vous faire évoluer, en fonction de votre niveau de progression, avec des conseils adaptés à chacun pour obtenir au plus vite votre permis moto</p>
+
+                <p><a href="#" class="btn btn-template-transparent-primary">En savoir plus</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="bar background-image-fixed-moto no-mb color-white text-center">
+    <div class="dark-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="icon icon-lg"><i class="{{ .Site.Params.see_more_permismoto.icon }}"></i>
+                </div>
+                <h3 class="text-uppercase">{{ .Site.Params.see_more_permismoto.title }}</h3>
+                <p class="lead">{{ .Site.Params.see_more_permismoto.subtitle }}</p>
+                <p class="text-center">
+                    <a href="{{ .Site.Params.see_more_permismoto.link_url }}" class="btn btn-template-transparent-black btn-lg">{{ .Site.Params.see_more_permismoto.link_text }}</a>
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

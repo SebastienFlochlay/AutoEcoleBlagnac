@@ -1,0 +1,46 @@
+{{ if isset .Site.Params "teammembers" }}
+{{ if .Site.Params.teammembers.enable }}
+{{ if gt (len .Site.Data.teammembers) 0 }}
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>{{ .Site.Params.teammembers.title }}</h2>
+            </div>
+
+            {{ if isset .Site.Params.teammembers "subtitle" }}
+            <p class="lead text-center">
+                {{ .Site.Params.teammembers.subtitle | markdownify }}
+            </p>
+            {{ end }}
+
+            <div class="row">
+                {{ range .Site.Data.teammembers }}
+                <div class="col-md-3 col-sm-3">
+                    <div class="team-member animated fadeInUp" data-animate="fadeInUp">
+                        <div class="image">
+                            <a href="#">
+                                <img src="{{ .avatar | absURL }}" alt="{{ .name }}" class="img-responsive img-circle">
+                            </a>
+                        </div>
+                        <h3><a href="#">{{ .name }}</a></h3>
+                        <p class="role">{{ .role }}</p>
+                        <!--<div class="social">-->
+                            <!--<a href="#" class="external facebook" data-animate-hover="pulse"><i class="fa fa-facebook"></i></a>-->
+                            <!--<a href="#" class="external gplus" data-animate-hover="pulse"><i class="fa fa-google-plus"></i></a>-->
+                            <!--<a href="#" class="external twitter" data-animate-hover="pulse"><i class="fa fa-twitter"></i></a>-->
+                            <!--<a href="#" class="email" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>-->
+                        <!--</div>-->
+                        <div class="text">
+                            <p>{{ .text | markdownify }}</p>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

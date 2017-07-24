@@ -1,5 +1,5 @@
 baseurl = "https://sebastienflochlay.github.io/AutoEcoleBlagnac/"
-# baseURL = "http://example.org/"
+#baseURL = "http://example.org/"
 title = "Universal"
 theme = "hugo-universal-theme"
 publishDir = "docs"
@@ -24,50 +24,59 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
+    name = "Auto"
+    url  = "#"
     weight = 2
+
+[[menu.main]]
+    name = "Moto"
+    url  = "#"
+    weight = 3
+
+[[menu.main]]
+    name = "Stage"
+    url  = "#"
+    weight = 4
+
+[[menu.main]]
+    name = "Fiches"
+    url  = "/blog/"
+    weight = 5
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 3
+    weight = 6
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 7
 
-# Top bar social links menu
+# Copyright bar social links menu
 
-[[menu.topbar]]
+[[menu.copyrightbar]]
     weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 2
     name = "Facebook"
     url = "http://facebook.com"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
-[[menu.topbar]]
-    weight = 3
+[[menu.copyrightbar]]
+    weight = 2
     name = "Twitter"
     url = "http://twitter.com"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
-[[menu.topbar]]
-    weight = 4
+[[menu.copyrightbar]]
+    weight = 3
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:info@automotoblagnac.com "
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
+    author = "Sebastien"
     defaultKeywords = ["devows", "hugo", "go"]
     defaultDescription = "Site template made by devcows using hugo"
 
@@ -91,28 +100,25 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "info@automotoblagnac.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
-
-    timeslot = """<p><strong>Lundi-Vendredi</strong> : 14h00 – 19h30
-        <br><strong>Samedi</strong> : 10h30 – 13h00
-      </p>
-      """
-    contact = """<p class="text-muted">N’hésitez pas à nous contacter par email ou téléphone.</p>
-        <ul class="list-style-none">
-            <li><strong><a href="mailto:">info@automotoblagnac.com</a></strong></li>
-            <li><strong><a href="#">Accueil</a></strong> : 05-61-71-40-56</li>
-            <li><strong><a href="#">Stage</a></strong> : 06-03-92-06-11</li> 
-        </ul>
-      </p>
-      """
+    about_us = """<p>Une école pas comme les autres pour passer votre permis.</p>
+                <p>Ici à l'auto-moto école du plateau toulouse blagnac, nous sommes specialisés en formation permis auto moto et stage de perfectionnement moto."""
+    copyright = "Copyright (c) 2015-2017 -- Auto Moto ecole du plateau Blagnac -- All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
+
+    timeslot = """<p><strong>Lundi-Vendredi</strong> : 14h00 – 19h30
+        <br><strong>Samedi</strong> : 10h30 – 13h00
+      </p>
+      """
+    contact = """<p><strong><a href="mailto:">info@automotoblagnac.com</a></strong>
+            <br><strong><a href="#">Accueil</a></strong> : 05-61-71-40-56
+            <br><strong><a href="#">Stage</a></strong> : 06-03-92-06-11</p>
+      """
     address = """<p><strong>Auto / Moto Ecole du Plateau</strong>
         <br>10 Route de Grenade
         <br>31700 Blagnac
@@ -127,7 +133,7 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
@@ -141,7 +147,7 @@ paginate = 10
     search = true
 
 [params.carousel]
-    enable = true
+    enable = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
@@ -152,13 +158,50 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
+[params.teammembers]
+    enable = true
+    title = "Venez rencontrer notre équipe"
+    subtitle = "Notre équipe, toujours souriante et attentionnée, sera véritablement heureuse de vous rencontrer et de vous accompagner dans cette étape si importante qu'est l'obtention d'un permis. Voici les personnes qui seront là pour vous :"
+
+[params.footer]
+    title = "Intéressé, vous désirez en savoir plus ?"
+    subtitle = "Contactez-nous"
+
+[params.counters]
+    enable = true
+
 [params.testimonials]
     enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    # title = "Testimonials"
+    title = "Témoignages"
+    subtitle = "Nous avons formé et accompagné de nombreuses personnes depuis notre création, et nous sommes toujours heureux de voir que l'obtention du permis est toujours un instant important. Prenez un instant pour regarder ce qu'ils pensent de nous."
+
+[params.see_more_permisauto]
+    enable = true
+    icon = "fa fa-car"
+    title = "Intéressé par le permis voiture ?"
+    subtitle = "Fort de leurs 26 ans d’expérience les formateurs de l’auto moto école du plateau Toulouse Blagnac sauront trouver les mots afin de vous faire progresser.ils vous accompagneront au mieux au cours de votre formation pour évoluer rapidement."
+    link_url = "/permisauto"
+    link_text = "Venez voir nos offres"
+
+[params.see_more_permismoto]
+    enable = true
+    icon = "fa fa-motorcycle"
+    title = "Vous êtes plutôt permis moto ?"
+    subtitle = "Jean-Marc, le formateur de l’Auto Moto Ecole du Plateau Toulouse Blagnac, vous guidera sur la route de votre réussite."
+    link_url = "/permismoto"
+    link_text = "Venez voir notre offre"
+
+[params.see_more_perfectionnement]
+    enable = true
+    icon = "fa fa-motorcycle"
+    title = "Vous désirez effectuer un stage de perfectionnement ?"
+    subtitle = "Si comme beaucoup, votre sécurité à moto vous préoccupe, ce stage de perfectionnement vous rassurera !"
+    link_url = "/perfectionnement"
+    link_text = "Venez voir notre offre"
 
 [params.see_more]
     enable = true
@@ -173,10 +216,10 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Nos partenaires"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Découvrez nos fiches explicatives"
+    subtitle = "Nos formateurs vous ont préparer quelques fiches explicatives qui j'en suis sûr, vous seront très utiles. Retrouvez ici des aides, explications et trucs-et-astuces qui vous permettront d'intégrer plus vite ce que vous aurez vu en cours..."

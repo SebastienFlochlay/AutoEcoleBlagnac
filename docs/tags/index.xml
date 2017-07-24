@@ -6,63 +6,54 @@
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <copyright>Copyright (c) 2015-2017 -- Auto Moto ecole du plateau Blagnac -- All rights reserved.</copyright>
+    <lastBuildDate>Sat, 17 Jun 2017 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Go</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/go/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Fiche</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/fiche/</link>
+      <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/go/</guid>
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/fiche/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/golang/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Moto</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/moto/</link>
+      <pubDate>Mon, 10 Jul 2017 13:07:31 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/golang/</guid>
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/moto/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/hugo/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Permis</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/permis/</link>
+      <pubDate>Fri, 02 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/hugo/</guid>
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/permis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/ipsum/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Voiture</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/voiture/</link>
+      <pubDate>Mon, 10 Jul 2017 13:07:31 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/ipsum/</guid>
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/voiture/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Vérification</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/v%C3%A9rification/</link>
+      <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/theme/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/theme/</guid>
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/v%C3%A9rification/</guid>
       <description></description>
     </item>
     

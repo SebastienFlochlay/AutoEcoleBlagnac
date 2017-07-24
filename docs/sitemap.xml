@@ -3,38 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2015/10/10/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/07/10/justificatif/</loc>
+    <lastmod>2017-07-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/17/v%C3%A9rifications-techniques/</loc>
+    <lastmod>2017-06-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/02/fiches-moto/</loc>
+    <lastmod>2017-06-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/administratif/</loc>
+    <lastmod>2017-07-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-07-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/</loc>
+    <lastmod>2017-07-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,74 +44,50 @@
   </url>
   
   <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/fiche/</loc>
+    <lastmod>2017-06-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/moto/</loc>
+    <lastmod>2017-07-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/moto/</loc>
+    <lastmod>2017-06-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/permis/</loc>
+    <lastmod>2017-06-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2017-06-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-07-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/voiture/</loc>
+    <lastmod>2017-07-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/v%C3%A9rification/</loc>
+    <lastmod>2017-06-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   

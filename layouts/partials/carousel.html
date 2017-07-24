@@ -1,0 +1,65 @@
+{{ if isset .Site.Params "carousel" }}
+{{ if .Site.Params.carousel.enable }}
+{{ if gt (len .Site.Data.carousel) 0 }}
+<section>
+    <div class="home-carousel">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel">
+                {{ range sort .Site.Data.carousel "weight" }}
+                <div class="item">
+                    <div class="row">
+                        <div class="col-sm-5 right">
+                            <h1>{{ .title }}</h1>
+                            {{ .description | safeHTML }}
+                        </div>
+                        <div class="col-sm-7">
+                            <img class="img-responsive" src="{{ .image }}" alt="">
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+            <!-- /.project owl-slider -->
+        </div>
+    </div>
+</section>
+{{ end }}
+{{else}}
+<section class="no-mb">
+    <!-- *** JUMBOTRON ***
+_________________________________________________________ -->
+
+    <div class="jumbotron">
+
+        <div class="dark-mask"></div>
+
+        <div class="container">
+            <div class="row mb-small">
+                <div class="col-sm-12 text-center">
+                    <h1>Permis Auto/Moto</h1>
+                    <h2>L'Auto-Moto école Du Plateau Toulouse Blagnac est heureuse de vous accueillir sur son site.</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6 mb-small">
+                    <!--<img class="img-responsive" src="img/banners/Yamaha-MT-07.png" alt="">-->
+                </div>
+
+                <div class="col-sm-6 text-center-xs">
+                    <p class="text-uppercase">Professionnel. Attentif. Agréable.
+                        <br />Accessible et Accueillant
+                        <br />Nous serons là pour vous accompagner.</p>
+                    <p>Nous sommes spécialisés en formation permis auto moto
+                        <br />et stage de perfectionnement moto.</p>
+                    <!--<p><a href="#packages" class="scroll-to btn btn-template-transparent-black">See packages</a></p>-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- *** JUMBOTRON END *** -->
+</section>
+{{ end }}
+{{ end }}
