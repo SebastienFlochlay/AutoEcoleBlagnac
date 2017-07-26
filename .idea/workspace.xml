@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1c2f3eb-1ed2-4ac4-a59f-7aac355f4815" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/js/jquery.counterup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/js/waypoints.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/auto/index.html" afterPath="$PROJECT_DIR$/docs/auto/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2017/06/02/fiches-moto/index.html" afterPath="$PROJECT_DIR$/docs/blog/2017/06/02/fiches-moto/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2017/06/17/permis-voiture/index.html" afterPath="$PROJECT_DIR$/docs/blog/2017/06/17/permis-voiture/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2017/06/17/piste-moto/index.html" afterPath="$PROJECT_DIR$/docs/blog/2017/06/17/piste-moto/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2017/06/17/vérifications-techniques/index.html" afterPath="$PROJECT_DIR$/docs/blog/2017/06/17/vérifications-techniques/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/2017/07/10/justificatif/index.html" afterPath="$PROJECT_DIR$/docs/blog/2017/07/10/justificatif/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/blog/index.html" afterPath="$PROJECT_DIR$/docs/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/administratif/index.html" afterPath="$PROJECT_DIR$/docs/categories/administratif/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/equipement/index.html" afterPath="$PROJECT_DIR$/docs/categories/equipement/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/moto/index.html" afterPath="$PROJECT_DIR$/docs/categories/moto/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/categories/voiture/index.html" afterPath="$PROJECT_DIR$/docs/categories/voiture/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/contact/index.html" afterPath="$PROJECT_DIR$/docs/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/faq/index.html" afterPath="$PROJECT_DIR$/docs/faq/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/moto/index.html" afterPath="$PROJECT_DIR$/docs/moto/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/fiche/index.html" afterPath="$PROJECT_DIR$/docs/tags/fiche/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/moto/index.html" afterPath="$PROJECT_DIR$/docs/tags/moto/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/permis/index.html" afterPath="$PROJECT_DIR$/docs/tags/permis/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/piste/index.html" afterPath="$PROJECT_DIR$/docs/tags/piste/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/voiture/index.html" afterPath="$PROJECT_DIR$/docs/tags/voiture/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/tags/vérification/index.html" afterPath="$PROJECT_DIR$/docs/tags/vérification/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/content/blog/vérifications-techniques.md" afterPath="$PROJECT_DIR$/content/blog/verifications-techniques.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/config.toml" />
     </list>
     <ignored path="autoecole.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -139,8 +117,8 @@
       <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+            <state relative-caret-position="42">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -773,12 +751,12 @@
       <workItem from="1500587717380" duration="1818000" />
       <workItem from="1500722557463" duration="4006000" />
       <workItem from="1500889799270" duration="13918000" />
-      <workItem from="1500973376178" duration="31842000" />
+      <workItem from="1500973376178" duration="31916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80144000" />
+    <option name="totallyTimeSpent" value="80218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -838,17 +816,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="483">
             <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/vérifications-techniques.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1295,10 +1262,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/verifications-techniques.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        <state relative-caret-position="42">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>

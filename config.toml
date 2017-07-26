@@ -1,5 +1,5 @@
-#baseurl = "https://sebastienflochlay.github.io/AutoEcoleBlagnac/"
-baseURL = "http://example.org/"
+baseurl = "https://sebastienflochlay.github.io/AutoEcoleBlagnac/"
+#baseURL = "http://example.org/"
 title = "Universal"
 theme = "hugo-universal-theme"
 publishDir = "docs"
