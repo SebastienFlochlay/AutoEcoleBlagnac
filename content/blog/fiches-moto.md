@@ -3,8 +3,8 @@ title = "Les fiches pratiques du permis moto"
 date = "2017-06-02T21:49:20+02:00"
 tags = ["moto", "fiche", "permis"]
 categories = ["moto"]
-banner = "img/banners/fiche-moto.jpg"
-author = "John Doe"
+banner = "img/banners/banner-15.jpg"
+author = "Sebastien"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget vestibulum arcu. Mauris quis massa ligula. Integer lorem mauris, porta et venenatis consectetur, cursus et purus. 

@@ -1,9 +1,9 @@
 +++
-title = "Fiches de vérifications techniques"
+title = "Pistes Moto"
 date = "2017-06-17T13:47:08+02:00"
-tags = ["moto", "fiche", "vérification"]
-categories = ["moto"]
-banner = "img/banners/banner-10.jpg"
+tags = ["moto", "piste"]
+categories = ["moto", "equipement"]
+banner = "img/banners/banner-16.jpg"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget vestibulum arcu. Mauris quis massa ligula. Integer lorem mauris, porta et venenatis consectetur, cursus et purus. 
@@ -15,6 +15,8 @@ Pellentesque eu accumsan nisl. Pellentesque sit amet magna dignissim, imperdiet 
 Convallis urna in, lobortis risus. Suspendisse sed orci turpis. Nam odio felis, rutrum et augue eu, aliquet dictum augue. Sed rhoncus lorem sit amet augue volutpat luctus. Vestibulum sit amet porta velit. Donec at fringilla quam. Ut nunc urna, vulputate a vestibulum in, consectetur a justo.
 
 Nullam dignissim semper augue, at consequat dui. Sed nec finibus magna. Pellentesque molestie lobortis dolor, ut egestas nulla tempus eget. Aenean in sem at nulla rhoncus faucibus. Integer velit risus, molestie et purus vel, pharetra aliquet libero. Vestibulum luctus ipsum at condimentum venenatis. Praesent vestibulum, enim nec eleifend auctor, felis enim auctor metus, et laoreet lacus mi aliquam mauris. Aenean condimentum egestas elit quis ultrices. Maecenas sodales nisi eget commodo euismod. Donec interdum justo quis sem aliquet, nec fermentum dui pulvinar. Vivamus ultrices mauris vitae tellus sollicitudin fermentum. In lacinia semper venenatis.
+
+<img src="/img/blog/blog-02.jpg" class="img-responsive" alt="Example blog post alt">
 
 ## Curabitur tristique 
 

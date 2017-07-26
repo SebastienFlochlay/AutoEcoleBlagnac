@@ -1,9 +1,9 @@
 +++
-title = "Fiches de vérifications techniques"
+title = "Pistes Moto"
 date = "2017-06-17T13:47:08+02:00"
-tags = ["moto", "fiche", "vérification"]
-categories = ["moto"]
-banner = "img/banners/banner-10.jpg"
+tags = ["voiture"]
+categories = ["voiture", "administratif"]
+banner = "img/banners/banner-13.jpg"
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget vestibulum arcu. Mauris quis massa ligula. Integer lorem mauris, porta et venenatis consectetur, cursus et purus. 

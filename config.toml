@@ -1,5 +1,5 @@
-baseurl = "https://sebastienflochlay.github.io/AutoEcoleBlagnac/"
-#baseURL = "http://example.org/"
+#baseurl = "https://sebastienflochlay.github.io/AutoEcoleBlagnac/"
+baseURL = "http://example.org/"
 title = "Universal"
 theme = "hugo-universal-theme"
 publishDir = "docs"
@@ -7,7 +7,7 @@ languageCode = "fr"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "fr"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -181,6 +181,7 @@ paginate = 10
 
 [params.see_more_permisauto]
     enable = true
+    enablefixe = true
     icon = "fa fa-car"
     title = "Intéressé par le permis voiture ?"
     subtitle = "Fort de leurs 26 ans d’expérience les formateurs de l’auto moto école du plateau Toulouse Blagnac sauront trouver les mots afin de vous faire progresser.ils vous accompagneront au mieux au cours de votre formation pour évoluer rapidement."
@@ -189,6 +190,7 @@ paginate = 10
 
 [params.see_more_permismoto]
     enable = true
+    enablefixe = true
     icon = "fa fa-motorcycle"
     title = "Vous êtes plutôt permis moto ?"
     subtitle = "Jean-Marc, le formateur de l’Auto Moto Ecole du Plateau Toulouse Blagnac, vous guidera sur la route de votre réussite."
@@ -197,6 +199,7 @@ paginate = 10
 
 [params.see_more_perfectionnement]
     enable = true
+    enablefixe = true
     icon = "fa fa-motorcycle"
     title = "Vous désirez effectuer un stage de perfectionnement ?"
     subtitle = "Si comme beaucoup, votre sécurité à moto vous préoccupe, ce stage de perfectionnement vous rassurera !"
