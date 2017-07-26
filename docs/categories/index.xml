@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Universal</title>
+    <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/</link>
+    <description>Recent content in Categories on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Copyright (c) 2015-2017 -- Auto Moto ecole du plateau Blagnac -- All rights reserved.</copyright>
+    <lastBuildDate>Mon, 10 Jul 2017 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Administratif</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/administratif/</link>
+      <pubDate>Mon, 10 Jul 2017 13:07:31 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/administratif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equipement</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/equipement/</link>
+      <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/equipement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moto</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/moto/</link>
+      <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/moto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voiture</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/voiture/</link>
+      <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/categories/voiture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

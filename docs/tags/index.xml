@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Universal</title>
+    <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/</link>
+    <description>Recent content in Tags on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Copyright (c) 2015-2017 -- Auto Moto ecole du plateau Blagnac -- All rights reserved.</copyright>
+    <lastBuildDate>Sat, 17 Jun 2017 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fiche</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/fiche/</link>
+      <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/fiche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moto</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/moto/</link>
+      <pubDate>Mon, 10 Jul 2017 13:07:31 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/moto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Permis</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/permis/</link>
+      <pubDate>Fri, 02 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/permis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piste</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/piste/</link>
+      <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/piste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voiture</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/voiture/</link>
+      <pubDate>Mon, 10 Jul 2017 13:07:31 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/voiture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vérification</title>
+      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/v%C3%A9rification/</link>
+      <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/v%C3%A9rification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
