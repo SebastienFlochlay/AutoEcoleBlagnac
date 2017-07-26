@@ -25,12 +25,12 @@ paginate = 10
 
 [[menu.main]]
     name = "Auto"
-    url  = "#"
+    url  = "/auto/"
     weight = 2
 
 [[menu.main]]
     name = "Moto"
-    url  = "#"
+    url  = "/moto/"
     weight = 3
 
 [[menu.main]]
