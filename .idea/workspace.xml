@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1c2f3eb-1ed2-4ac4-a59f-7aac355f4815" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/config.toml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/justificatif.md" afterPath="$PROJECT_DIR$/content/blog/justificatif.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/footer.html" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/seeperfectionnementfixe.html" afterPath="$PROJECT_DIR$/layouts/partials/seeperfectionnementfixe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/seepermisautofixe.html" afterPath="$PROJECT_DIR$/layouts/partials/seepermisautofixe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/seepermismotofixe.html" afterPath="$PROJECT_DIR$/layouts/partials/seepermismotofixe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/piste-moto.md" afterPath="$PROJECT_DIR$/content/blog/piste-moto.md" />
     </list>
     <ignored path="autoecole.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,7 +73,7 @@
               <entry file="file://$PROJECT_DIR$/../universal-1-0/universal/packages.html">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="84">
-                    <caret line="469" column="0" lean-forward="true" selection-start-line="469" selection-start-column="0" selection-end-line="469" selection-end-column="0" />
+                    <caret line="469" column="0" lean-forward="false" selection-start-line="469" selection-start-column="0" selection-end-line="469" selection-end-column="0" />
                     <folding>
                       <element signature="n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     </folding>
@@ -112,28 +107,8 @@
       <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/partials/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="399">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -143,8 +118,112 @@
         <entry file="file://$PROJECT_DIR$/content/blog/justificatif.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="399">
+                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linked-post.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/linked-post.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="migrate-from-jekyll.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/migrate-from-jekyll.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="126">
+                <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="permis-voiture.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/permis-voiture.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="84">
+                <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fiches-moto.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/fiches-moto.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="252">
+                <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="go-is-for-lovers.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/go-is-for-lovers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="126">
+                <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hugo-is-for-lovers.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/hugo-is-for-lovers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="piste-moto.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/piste-moto.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="357">
                 <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verifications-techniques.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/blog/verifications-techniques.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -220,7 +299,6 @@
         <option value="$PROJECT_DIR$/content/blog/fiches-moto.md" />
         <option value="$PROJECT_DIR$/content/blog/vérifications-techniques.md" />
         <option value="$PROJECT_DIR$/content/blog/permis-voiture.md" />
-        <option value="$PROJECT_DIR$/content/blog/piste-moto.md" />
         <option value="$PROJECT_DIR$/themes/hugo-universal-theme/layouts/_default/single.html" />
         <option value="$PROJECT_DIR$/layouts/partials/seepermisauto.html" />
         <option value="$PROJECT_DIR$/layouts/partials/seepermismoto.html" />
@@ -250,8 +328,9 @@
         <option value="$PROJECT_DIR$/layouts/partials/seepermismotofixe.html" />
         <option value="$PROJECT_DIR$/content/blog/go-is-for-lovers.md" />
         <option value="$PROJECT_DIR$/content/blog/migrate-from-jekyll.md" />
-        <option value="$PROJECT_DIR$/content/blog/justificatif.md" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/blog/justificatif.md" />
+        <option value="$PROJECT_DIR$/content/blog/piste-moto.md" />
       </list>
     </option>
   </component>
@@ -554,12 +633,12 @@
       <workItem from="1500587717380" duration="1818000" />
       <workItem from="1500722557463" duration="4006000" />
       <workItem from="1500889799270" duration="13918000" />
-      <workItem from="1500973376178" duration="37013000" />
+      <workItem from="1500973376178" duration="37430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85315000" />
+    <option name="totallyTimeSpent" value="85732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -603,38 +682,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/static/js/front.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/counters/3.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/layouts/partials/scripts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/counters.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/static/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -826,17 +873,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/fiches-moto.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/team.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
@@ -889,17 +925,6 @@
         <state relative-caret-position="42">
           <caret line="2" column="150" lean-forward="false" selection-start-line="2" selection-start-column="150" selection-end-line="2" selection-end-column="150" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/verifications-techniques.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1015,18 +1040,56 @@
     <entry file="file://$PROJECT_DIR$/../universal-1-0/universal/packages.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="469" column="0" lean-forward="true" selection-start-line="469" selection-start-column="0" selection-end-line="469" selection-end-column="0" />
+          <caret line="469" column="0" lean-forward="false" selection-start-line="469" selection-start-column="0" selection-end-line="469" selection-end-column="0" />
           <folding>
             <element signature="n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/migrate-from-jekyll.md">
+    <entry file="file://$PROJECT_DIR$/layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/piste-moto.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
+          <first_editor relative-caret-position="357">
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/verifications-techniques.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/fiches-moto.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="252">
+            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1049,27 +1112,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="39" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/content/blog/hugo-is-for-lovers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/blog/justificatif.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="357">
-            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <first_editor relative-caret-position="399">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/linked-post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/migrate-from-jekyll.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/permis-voiture.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1078,8 +1169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
