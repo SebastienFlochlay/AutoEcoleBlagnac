@@ -5,7 +5,6 @@ _________________________________________________________ -->
     <div class="container">
         <div class="col-md-8 col-sm-12">
             <h3>{{ .Site.Params.footer.title | markdownify }}</h3>
-            {{ .Site.BaseURL}}
         </div>
         <div class="col-md-4 col-sm-12">
             <a href="{{ .Site.BaseURL}}contact/" class="btn btn-template-transparent-primary">{{ .Site.Params.footer.subtitle | markdownify }}</a>
@@ -67,7 +66,7 @@ _________________________________________________________ -->
 
             {{ .Site.Params.address | markdownify }}
 
-            <a href="{{ .Site.BaseURL}}/contact/" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
+            <a href="{{ .Site.BaseURL}}contact/" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 

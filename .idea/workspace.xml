@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1c2f3eb-1ed2-4ac4-a59f-7aac355f4815" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/config.toml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/blog/justificatif.md" afterPath="$PROJECT_DIR$/content/blog/justificatif.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/footer.html" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/seeperfectionnementfixe.html" afterPath="$PROJECT_DIR$/layouts/partials/seeperfectionnementfixe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/seepermisautofixe.html" afterPath="$PROJECT_DIR$/layouts/partials/seepermisautofixe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/seepermismotofixe.html" afterPath="$PROJECT_DIR$/layouts/partials/seepermismotofixe.html" />
     </list>
     <ignored path="autoecole.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,11 +74,11 @@
                 </provider>
               </entry>
             </file>
-            <file leaf-file-name="packages.html" pinned="false" current-in-tab="false">
+            <file leaf-file-name="packages.html" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/../universal-1-0/universal/packages.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="126">
-                    <caret line="471" column="12" lean-forward="false" selection-start-line="471" selection-start-column="12" selection-end-line="816" selection-end-column="32" />
+                  <state relative-caret-position="84">
+                    <caret line="469" column="0" lean-forward="true" selection-start-line="469" selection-start-column="0" selection-end-line="469" selection-end-column="0" />
                     <folding>
                       <element signature="n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     </folding>
@@ -80,17 +86,7 @@
                 </provider>
               </entry>
             </file>
-            <file leaf-file-name="seeperfectionnementfixe.html" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/layouts/partials/seeperfectionnementfixe.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="441">
-                    <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="portfolio-no-space-3.html" pinned="false" current-in-tab="true">
+            <file leaf-file-name="portfolio-no-space-3.html" pinned="false" current-in-tab="false">
               <entry file="file://$PROJECT_DIR$/../universal-1-0/universal/portfolio-no-space-3.html">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="215">
@@ -113,11 +109,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -126,28 +122,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="37" column="50" lean-forward="false" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+            <state relative-caret-position="189">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/partials/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layouts/partials/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="189">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -157,8 +143,8 @@
         <entry file="file://$PROJECT_DIR$/content/blog/justificatif.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="588">
-                <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <first_editor relative-caret-position="357">
+                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -173,7 +159,6 @@
       <find>data-animate-hover</find>
       <find>p</find>
       <find>boun</find>
-      <find>see</find>
       <find>pulse</find>
       <find />
       <find>|</find>
@@ -183,12 +168,10 @@
       <find>team</find>
       <find>our</find>
       <find>.Params</find>
-      <find>i</find>
       <find>project</find>
       <find>port</find>
       <find>RESPONSIBILITIES</find>
       <find>src=&quot;img/portfolio-</find>
-      <find>img</find>
       <find>c</find>
       <find>custo</find>
       <find>custom</find>
@@ -196,16 +179,20 @@
       <find>map</find>
       <find>contact</find>
       <find>customer</find>
-      <find>scheduleAddrTitle</find>
-      <find>add</find>
-      <find>cont</find>
       <find>&lt;a href=</find>
+      <find>cont</find>
+      <find>add</find>
+      <find>scheduleAddrTitle</find>
+      <find>i</find>
+      <find>img</find>
+      <find>see</find>
     </findStrings>
     <replaceStrings>
       <replace>src=&quot;{{ .Site.BaseURL}}/img/banners/banner-</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Hugo\Sites\autoecole</dir>
+      <dir>C:\Hugo\Sites\autoecole\content\blog</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -225,10 +212,8 @@
         <option value="$PROJECT_DIR$/content/fiches/vérifications-techniques.md" />
         <option value="$PROJECT_DIR$/content/fiches/fiches-moto.md" />
         <option value="$PROJECT_DIR$/content/blog/creating-a-new-theme.md" />
-        <option value="$PROJECT_DIR$/content/blog/go-is-for-lovers.md" />
         <option value="$PROJECT_DIR$/content/blog/hugo-is-for-lovers.md" />
         <option value="$PROJECT_DIR$/content/blog/linked-post.md" />
-        <option value="$PROJECT_DIR$/content/blog/migrate-from-jekyll.md" />
         <option value="$PROJECT_DIR$/content/faq.md" />
         <option value="$PROJECT_DIR$/themes/hugo-universal-theme/layouts/_default/list.html" />
         <option value="$PROJECT_DIR$/layouts/partials/carousel.html" />
@@ -247,9 +232,6 @@
         <option value="$PROJECT_DIR$/layouts/partials/team.html" />
         <option value="$PROJECT_DIR$/data/counters/3.yaml" />
         <option value="$PROJECT_DIR$/themes/hugo-universal-theme/static/css/animate.css" />
-        <option value="$PROJECT_DIR$/layouts/partials/seeperfectionnementfixe.html" />
-        <option value="$PROJECT_DIR$/layouts/partials/seepermisautofixe.html" />
-        <option value="$PROJECT_DIR$/layouts/partials/seepermismotofixe.html" />
         <option value="$PROJECT_DIR$/content/moto.md" />
         <option value="$PROJECT_DIR$/layouts/partials/permisauto.html" />
         <option value="$PROJECT_DIR$/content/auto.md" />
@@ -262,9 +244,14 @@
         <option value="$PROJECT_DIR$/themes/hugo-universal-theme/i18n/fr.yaml" />
         <option value="$PROJECT_DIR$/layouts/index.html" />
         <option value="$PROJECT_DIR$/i18n/fr.yaml" />
+        <option value="$PROJECT_DIR$/layouts/partials/footer.html" />
+        <option value="$PROJECT_DIR$/layouts/partials/seeperfectionnementfixe.html" />
+        <option value="$PROJECT_DIR$/layouts/partials/seepermisautofixe.html" />
+        <option value="$PROJECT_DIR$/layouts/partials/seepermismotofixe.html" />
+        <option value="$PROJECT_DIR$/content/blog/go-is-for-lovers.md" />
+        <option value="$PROJECT_DIR$/content/blog/migrate-from-jekyll.md" />
         <option value="$PROJECT_DIR$/content/blog/justificatif.md" />
         <option value="$PROJECT_DIR$/config.toml" />
-        <option value="$PROJECT_DIR$/layouts/partials/footer.html" />
       </list>
     </option>
   </component>
@@ -567,12 +554,12 @@
       <workItem from="1500587717380" duration="1818000" />
       <workItem from="1500722557463" duration="4006000" />
       <workItem from="1500889799270" duration="13918000" />
-      <workItem from="1500973376178" duration="35067000" />
+      <workItem from="1500973376178" duration="37013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83369000" />
+    <option name="totallyTimeSpent" value="85315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -616,38 +603,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/layouts/partials/seepermismoto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/seeperfectionnement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="55" lean-forward="false" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="1687" column="14" lean-forward="false" selection-start-line="1687" selection-start-column="14" selection-end-line="1687" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../universal-1-0/universal/js/front.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/static/js/front.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
@@ -700,14 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/seepermismotofixe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -775,22 +722,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
             <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/blog/go-is-for-lovers.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="84">
-            <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="5" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor />
@@ -887,28 +818,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../universal-1-0/universal/packages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="471" column="12" lean-forward="false" selection-start-line="471" selection-start-column="12" selection-end-line="816" selection-end-column="32" />
-          <folding>
-            <element signature="n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/autopackage/code.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/seepermisautofixe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -959,14 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="505" column="33" lean-forward="true" selection-start-line="497" selection-start-column="28" selection-end-line="505" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/seeperfectionnementfixe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1051,10 +956,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="17" column="69" lean-forward="false" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/seeperfectionnementfixe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/seeperfectionnement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/seepermisautofixe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="75" lean-forward="false" selection-start-line="11" selection-start-column="75" selection-end-line="11" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/seepermisauto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/seepermismotofixe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/seepermismoto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../universal-1-0/universal/packages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="469" column="0" lean-forward="true" selection-start-line="469" selection-start-column="0" selection-end-line="469" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/migrate-from-jekyll.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/go-is-for-lovers.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="37" column="50" lean-forward="false" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        <state relative-caret-position="189">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1062,8 +1068,8 @@
     <entry file="file://$PROJECT_DIR$/content/blog/justificatif.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="588">
-            <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <first_editor relative-caret-position="357">
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1072,24 +1078,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="105">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding />
         </state>
       </provider>

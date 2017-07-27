@@ -21,6 +21,11 @@ Nullam dignissim semper augue, at consequat dui. Sed nec finibus magna. Pellente
     <img src="/img/blog/blog-01.jpg" class="img-responsive" alt="Example blog post alt">
 </p>
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ## Curabitur tristique 
 
 Morbi elementum cursus mi. Nam molestie efficitur volutpat. Nam id lectus ac justo pharetra sodales eget vitae purus. Mauris efficitur semper imperdiet. Sed viverra, ante vel rutrum sollicitudin, lectus libero tristique mauris, eget rutrum massa libero sed eros. Phasellus mauris elit, suscipit non ullamcorper et, dictum vel purus. Suspendisse enim dui, placerat a aliquam ut, pulvinar at turpis. Phasellus rutrum pellentesque ante, a eleifend dolor rhoncus vitae. In sed sapien quis libero bibendum accumsan at sit amet magna. Nullam dictum augue ex, et volutpat orci suscipit non.
