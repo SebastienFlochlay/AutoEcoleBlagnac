@@ -9,6 +9,7 @@ draft = true
 
 ## Step 1. Install Hugo
 
+![Photo de blog](https://sebastienflochlay.github.io/AutoEcoleBlagnac/img/blog/blog-02.jpg "Blog image")
 Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
 appropriate version for your os and architecture.
 

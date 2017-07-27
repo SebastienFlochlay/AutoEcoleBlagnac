@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vérification on Universal</title>
-    <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/v%C3%A9rification/</link>
+    <link>http://example.org/tags/v%C3%A9rification/</link>
     <description>Recent content in Vérification on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (c) 2015-2017 -- Auto Moto ecole du plateau Blagnac -- All rights reserved.</copyright>
     <lastBuildDate>Sat, 17 Jun 2017 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="https://sebastienflochlay.github.io/AutoEcoleBlagnac/tags/v%C3%A9rification/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/v%C3%A9rification/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fiches de vérifications techniques</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/17/verifications-techniques/</link>
+      <link>http://example.org/blog/2017/06/17/verifications-techniques/</link>
       <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/17/verifications-techniques/</guid>
+      <guid>http://example.org/blog/2017/06/17/verifications-techniques/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget vestibulum arcu. Mauris quis massa ligula. Integer lorem mauris, porta et venenatis consectetur, cursus et purus. Pellentesque eu accumsan nisl. Pellentesque sit amet magna dignissim, imperdiet quam ac, egestas sapien. Fusce et odio est. Aenean eget faucibus augue. Fusce ex nunc, sagittis nec luctus quis, fermentum ac purus.
 Integer scelerisque felis laoreet Convallis urna in, lobortis risus. Suspendisse sed orci turpis.</description>
     </item>

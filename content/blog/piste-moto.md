@@ -16,7 +16,7 @@ Convallis urna in, lobortis risus. Suspendisse sed orci turpis. Nam odio felis, 
 
 Nullam dignissim semper augue, at consequat dui. Sed nec finibus magna. Pellentesque molestie lobortis dolor, ut egestas nulla tempus eget. Aenean in sem at nulla rhoncus faucibus. Integer velit risus, molestie et purus vel, pharetra aliquet libero. Vestibulum luctus ipsum at condimentum venenatis. Praesent vestibulum, enim nec eleifend auctor, felis enim auctor metus, et laoreet lacus mi aliquam mauris. Aenean condimentum egestas elit quis ultrices. Maecenas sodales nisi eget commodo euismod. Donec interdum justo quis sem aliquet, nec fermentum dui pulvinar. Vivamus ultrices mauris vitae tellus sollicitudin fermentum. In lacinia semper venenatis.
 
-![Photo de blog](https://sebastienflochlay.github.io/AutoEcoleBlagnac/img/blog/blog-02.jpg "Blog image")
+<img src="https://sebastienflochlay.github.io/AutoEcoleBlagnac/img/blog/blog-02.jpg" class="img-responsive" alt="Example blog post alt">
 
 ## Curabitur tristique 
 

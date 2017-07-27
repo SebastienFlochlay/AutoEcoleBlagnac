@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Universal</title>
-    <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/</link>
+    <link>http://example.org/</link>
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright (c) 2015-2017 -- Auto Moto ecole du plateau Blagnac -- All rights reserved.</copyright>
     <lastBuildDate>Mon, 10 Jul 2017 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://sebastienflochlay.github.io/AutoEcoleBlagnac/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Justificatif à fournir</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/07/10/justificatif/</link>
+      <link>http://example.org/blog/2017/07/10/justificatif/</link>
       <pubDate>Mon, 10 Jul 2017 13:07:31 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/07/10/justificatif/</guid>
+      <guid>http://example.org/blog/2017/07/10/justificatif/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget vestibulum arcu. Mauris quis massa ligula. Integer lorem mauris, porta et venenatis consectetur, cursus et purus. Pellentesque eu accumsan nisl. Pellentesque sit amet magna dignissim, imperdiet quam ac, egestas sapien. Fusce et odio est. Aenean eget faucibus augue. Fusce ex nunc, sagittis nec luctus quis, fermentum ac purus.
 Integer scelerisque felis laoreet Convallis urna in, lobortis risus. Suspendisse sed orci turpis.</description>
     </item>
     
     <item>
       <title>Fiches de vérifications techniques</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/17/verifications-techniques/</link>
+      <link>http://example.org/blog/2017/06/17/verifications-techniques/</link>
       <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/17/verifications-techniques/</guid>
+      <guid>http://example.org/blog/2017/06/17/verifications-techniques/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget vestibulum arcu. Mauris quis massa ligula. Integer lorem mauris, porta et venenatis consectetur, cursus et purus. Pellentesque eu accumsan nisl. Pellentesque sit amet magna dignissim, imperdiet quam ac, egestas sapien. Fusce et odio est. Aenean eget faucibus augue. Fusce ex nunc, sagittis nec luctus quis, fermentum ac purus.
 Integer scelerisque felis laoreet Convallis urna in, lobortis risus. Suspendisse sed orci turpis.</description>
     </item>
     
     <item>
       <title>Pistes Moto</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/17/permis-voiture/</link>
+      <link>http://example.org/blog/2017/06/17/permis-voiture/</link>
       <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/17/permis-voiture/</guid>
+      <guid>http://example.org/blog/2017/06/17/permis-voiture/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget vestibulum arcu. Mauris quis massa ligula. Integer lorem mauris, porta et venenatis consectetur, cursus et purus. Pellentesque eu accumsan nisl. Pellentesque sit amet magna dignissim, imperdiet quam ac, egestas sapien. Fusce et odio est. Aenean eget faucibus augue. Fusce ex nunc, sagittis nec luctus quis, fermentum ac purus.
 Integer scelerisque felis laoreet Convallis urna in, lobortis risus. Suspendisse sed orci turpis.</description>
     </item>
     
     <item>
       <title>Pistes Moto</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/17/piste-moto/</link>
+      <link>http://example.org/blog/2017/06/17/piste-moto/</link>
       <pubDate>Sat, 17 Jun 2017 13:47:08 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/17/piste-moto/</guid>
+      <guid>http://example.org/blog/2017/06/17/piste-moto/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget vestibulum arcu. Mauris quis massa ligula. Integer lorem mauris, porta et venenatis consectetur, cursus et purus. Pellentesque eu accumsan nisl. Pellentesque sit amet magna dignissim, imperdiet quam ac, egestas sapien. Fusce et odio est. Aenean eget faucibus augue. Fusce ex nunc, sagittis nec luctus quis, fermentum ac purus.
 Integer scelerisque felis laoreet Convallis urna in, lobortis risus. Suspendisse sed orci turpis.</description>
     </item>
     
     <item>
       <title>Les fiches pratiques du permis moto</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/02/fiches-moto/</link>
+      <link>http://example.org/blog/2017/06/02/fiches-moto/</link>
       <pubDate>Fri, 02 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/blog/2017/06/02/fiches-moto/</guid>
+      <guid>http://example.org/blog/2017/06/02/fiches-moto/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget vestibulum arcu. Mauris quis massa ligula. Integer lorem mauris, porta et venenatis consectetur, cursus et purus. Pellentesque eu accumsan nisl. Pellentesque sit amet magna dignissim, imperdiet quam ac, egestas sapien. Fusce et odio est. Aenean eget faucibus augue. Fusce ex nunc, sagittis nec luctus quis, fermentum ac purus.
 Integer scelerisque felis laoreet Convallis urna in, lobortis risus. Suspendisse sed orci turpis.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/contact/</link>
+      <link>http://example.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/contact/</guid>
+      <guid>http://example.org/contact/</guid>
       <description> Besoin d&amp;rsquo;un renseignement ?  Brigitte vous accueille du lundi au vendredi de 14h à 19h30, ainsi que le samedi matin de 10h30 à 13h. Sinon n&amp;rsquo;hésitez pas à nous laisser votre numéro de téléphone ou tout simplement à nous poser directement vos questions. Nous vous rappellerons rapidement. </description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/faq/</link>
+      <link>http://example.org/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/faq/</guid>
+      <guid>http://example.org/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>Permis Auto</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/auto/</link>
+      <link>http://example.org/auto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/auto/</guid>
+      <guid>http://example.org/auto/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Permis Moto</title>
-      <link>https://sebastienflochlay.github.io/AutoEcoleBlagnac/moto/</link>
+      <link>http://example.org/moto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastienflochlay.github.io/AutoEcoleBlagnac/moto/</guid>
+      <guid>http://example.org/moto/</guid>
       <description> Le permis moto  Brigitte vous accueille du lundi au vendredi de 14h à 19h30, ainsi que le samedi matin de 10h30 à 13h. Sinon n&amp;rsquo;hésitez pas à nous laisser votre numéro de téléphone ou tout simplement à nous poser directement vos questions. Nous vous rappellerons rapidement. </description>
     </item>
     
