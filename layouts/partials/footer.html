@@ -5,9 +5,10 @@ _________________________________________________________ -->
     <div class="container">
         <div class="col-md-8 col-sm-12">
             <h3>{{ .Site.Params.footer.title | markdownify }}</h3>
+            {{ .Site.BaseURL}}
         </div>
         <div class="col-md-4 col-sm-12">
-            <a href="{{ .Site.BaseURL}}/contact/" class="btn btn-template-transparent-primary">{{ .Site.Params.footer.subtitle | markdownify }}</a>
+            <a href="{{ .Site.BaseURL}}contact/" class="btn btn-template-transparent-primary">{{ .Site.Params.footer.subtitle | markdownify }}</a>
         </div>
     </div>
 </div>
