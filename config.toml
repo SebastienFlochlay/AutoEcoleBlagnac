@@ -186,7 +186,7 @@ paginate = 10
     icon = "fa fa-car"
     title = "Intéressé par le permis voiture ?"
     subtitle = "Fort de leurs 26 ans d’expérience les formateurs de l’auto moto école du plateau Toulouse Blagnac sauront trouver les mots afin de vous faire progresser.ils vous accompagneront au mieux au cours de votre formation pour évoluer rapidement."
-    link_url = "/auto"
+    link_url = "auto"
     link_text = "Venez voir nos offres"
 
 [params.see_more_permismoto]
@@ -195,7 +195,7 @@ paginate = 10
     icon = "fa fa-motorcycle"
     title = "Vous êtes plutôt permis moto ?"
     subtitle = "Jean-Marc, le formateur de l’Auto Moto Ecole du Plateau Toulouse Blagnac, vous guidera sur la route de votre réussite."
-    link_url = "/moto"
+    link_url = "moto"
     link_text = "Venez voir notre offre"
 
 [params.see_more_perfectionnement]
@@ -204,7 +204,7 @@ paginate = 10
     icon = "fa fa-motorcycle"
     title = "Vous désirez effectuer un stage de perfectionnement ?"
     subtitle = "Si comme beaucoup, votre sécurité à moto vous préoccupe, ce stage de perfectionnement vous rassurera !"
-    link_url = "/stage"
+    link_url = "stage"
     link_text = "Venez voir notre offre"
 
 [params.see_more]
