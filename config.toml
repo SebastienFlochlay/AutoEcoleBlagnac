@@ -1,6 +1,6 @@
 baseurl = "https://sebastienflochlay.github.io/AutoEcoleBlagnac/"
 #baseURL = "http://example.org/"
-title = "Universal"
+title = "Auto Ecole Blagnac"
 theme = "hugo-universal-theme"
 publishDir = "docs"
 languageCode = "fr"
